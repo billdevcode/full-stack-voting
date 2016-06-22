@@ -38,5 +38,6 @@ export function vote(state, entry) {
     );
 }
 
+export const INITIAL_STATE = Map();
 
 
