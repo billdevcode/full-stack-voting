@@ -8,4 +8,6 @@ This project is a decoupled voting app where multiple users can connect and vote
 Other technologies used: Node, Webpack, Babel, Chai, and Socket.io
 
 ![vote logic](imgs/vote_logic.png)
+
+
 ![vote system](imgs/vote_system.png)
